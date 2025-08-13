@@ -6,10 +6,21 @@ Proyecto Flutter para gestionar tareas personales, con arquitectura limpia y uso
 
 Este proyecto es un punto de partida para una aplicación Flutter enfocada en la gestión de tareas.
 
-### Requisitos
+## 🛠️ Tecnologías y Funcionalidades Implementadas
 
-- Flutter SDK instalado (versión estable recomendada)
-- Conexión a internet para descargar dependencias
+- **Flutter 3.29.3** como base del proyecto para aprovechar las últimas mejoras y estabilidad.
+- **Hive + Hive Flutter** para almacenamiento local rápido y sencillo, con generación de adapters automáticos.
+- **Riverpod** para manejo de estado y inyección de dependencias, manteniendo el código modular y testable.
+- Implementación completa para **crear, editar y eliminar tareas** con persistencia local.
+- Personalización del mensaje de bienvenida en la pantalla splash.
+- Navegación estructurada con rutas nombradas y manejo dinámico de argumentos.
+- Diseño UI limpio y responsivo, siguiendo buenas prácticas de Material Design.
+- Tests básicos para widgets clave y validación de funcionalidades.
+- Commits frecuentes y descriptivos, siguiendo buenas prácticas de Git para mantener historial claro.
+
+---
+
+Este proyecto refleja una arquitectura limpia y escalable, lista para seguir creciendo y adaptarse a nuevas funcionalidades.
 
 ### Instalación
 
